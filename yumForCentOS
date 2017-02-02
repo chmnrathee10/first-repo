@@ -1,0 +1,5 @@
+# This repo is for LAMP Installation !
+[gls]
+name=test1
+baseurl=ftp://103.25.172.189/pub/Packages/
+gpgcheck=0
